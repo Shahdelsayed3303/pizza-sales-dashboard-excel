@@ -2,7 +2,7 @@
 
 An interactive sales dashboard built entirely in Microsoft Excel using PivotTables, PivotCharts, slicers, and a timeline filter. It turns raw pizza order records into a single-screen view of sales performance, product mix, and customer ordering behavior.
 
-![Dashboard Preview](pizza_dashboard.PNG)
+![Dashboard Preview](https://github.com/Shahdelsayed3303/pizza-sales-dashboard-excel/blob/main/pizza%20dashboard.PNG)
 
 ## 📊 Overview
 
