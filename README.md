@@ -75,7 +75,7 @@ Every chart updates simultaneously when a filter is applied.
 
 ## 👩‍💻 Author
 
-**Shahd** — Electronics and Communications Engineering student, Zagazig University
+**Shahd** — Computer And Systems Engineering student, Zagazig University
 
 ---
 
